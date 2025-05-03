@@ -2,6 +2,16 @@
 
 This repository contains my submission for the Computational Theory module assessment for the academic year 2024/2025. 
 
+## Overview
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Repository Structure](#repository-structure)
+- [Instructions to run](#instructions-to-run)
+- [Tasks](#tasks)
+ 
+
 ## Repository Structure
 
 - `tasks.ipynb`: Contains the Jupyter notebook with solutions to the assessment tasks.
@@ -25,7 +35,11 @@ This repository contains my submission for the Computational Theory module asses
    python -m venv venv
    venv\Scripts\activate  
    ```
+
 4. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
+
+## Tasks
+### Task 1 
