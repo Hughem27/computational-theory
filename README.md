@@ -14,9 +14,10 @@ This repository contains my submission for the Computational Theory module asses
 
 ## Repository Structure
 
-- `tasks.ipynb`: Contains the Jupyter notebook with solutions to the assessment tasks.
+- `tasks.ipynb`: Contains the Jupyter notebook with solutions to the assessment tasks. Assessment tasks can be seen here https://github.com/ianmcloughlin/computational_theory/blob/main/assessment/tasks.md
 - `README.md`: This file, providing an overview of the repository.
 - `input_file_path.txt`: This file is read in in Task 3 as specified in the brief.
+- `requirements.txt`: This file contains all dependencies, when below instructions followed automatically installs all dependencies for the project.
 
 ## Instructions to run
 1. **Clone the Repository**: Clone this repository using the following command:
@@ -40,6 +41,3 @@ This repository contains my submission for the Computational Theory module asses
    ```bash
    pip install -r requirements.txt
    ```
-
-## Tasks
-### Task 1 
